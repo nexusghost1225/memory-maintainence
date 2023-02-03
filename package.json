@@ -1,0 +1,19 @@
+{
+  "name": "memory-maintainence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexusghost1225/memory-maintainence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexusghost1225/memory-maintainence/issues"
+  },
+  "homepage": "https://github.com/nexusghost1225/memory-maintainence#readme"
+}
