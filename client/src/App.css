@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Question {
+  text-align: center;
+}
+
+.memory {
+text-align: center;
+ 
+}
+
+.input {
+  text-align: center;
+}
+
+.choice {
+  text-align: center;
+}
